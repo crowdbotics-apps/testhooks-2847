@@ -1,0 +1,3 @@
+rootProject.name = 'testhooks_2847'
+
+include ':app'
